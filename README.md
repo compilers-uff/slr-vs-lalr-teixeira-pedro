@@ -4,6 +4,9 @@ Trabalho da disciplina Compiladores 2021.1
 
 Data de entrega 23/07/21
 
+Aluno : Pedro Paulo Bastos Teixeira
+615031106
+
 ## Introdução 
 
 A gramática 
